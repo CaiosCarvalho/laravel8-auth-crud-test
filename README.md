@@ -1,1 +1,1 @@
-# laravel8-auth-crud-test
+php artisan migrate:fresh --seed
